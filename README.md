@@ -10,4 +10,4 @@ Para ver os códigos é necessário abrir os arquivos .html e a pasta styles, on
 
 # Imagens
 
-![Preview Portfólio](https://github.com/f3l1pe-augusto/portfolio/blob/main/assets/print.png?raw=true)
+![Preview Portfólio](https://github.com/f3l1pe-augusto/portfolio/blob/main/assets/print_projeto.png?raw=true)
